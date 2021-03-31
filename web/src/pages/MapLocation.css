@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  color: #FFF;
+  background: #ebf2f5;
+}
+
+#page-map {
+  width: 100vw;
+  height: 100vh;
+
+  position: relative;
+  display: flex;
+}
